@@ -131,4 +131,3 @@ Performed load testing using a Postman collection and tuned Lambda memory alloca
 ![alt text](./diagrams/image-1.png)
 
 ![alt text](./diagramsimage-2.png)
----
