@@ -92,8 +92,7 @@ Access Policy: To give access to SQSSendMessage Role to insert records to SQS Q
 * Linked **SQS as an event source** for Lambda.
 
   Lambda Trigger:
-
-<\<Insert Screenshot>>
+![alt text](./diagrams/image-1.png)
 
 * Configured **API Gateway**:
 
